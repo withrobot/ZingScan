@@ -1,6 +1,6 @@
 #ZingScan™ 핸드헬드 3D 스캐너 (Model: HH1604)
 
-![ScreenShot](images/ZingScan.png)
+![ScreenShot](Images/ZingScan.png)
 
 ### 주요 특징
 * 정밀도: 정확도 0.2 mm 이하
