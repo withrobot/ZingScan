@@ -1,12 +1,12 @@
 # ZingScan™ 핸드헬드 3D 스캐너 (Model: HH1604)
 
-### 외형
+## 외형
 ![ScreenShot](../Images/product.PNG)
 
-### 제품 구성
+## 제품 구성
 ![ScreenShot](../Images/component.PNG)
 
-### 주요 사양
+## 주요 사양
 Type | Description |
 ------|------|
 **크기(D x W x H)** | 185 x 45 x 270 mm |
@@ -19,5 +19,5 @@ Type | Description |
 **통신 방식** | USB 3.0 |
 **제공 소프트웨어** | ZingScanVu™, NanoScan™ |
 **출력 형식** | STL, OBJ, PLY, XYZ 등 | 
-**컴퓨터 사양** | 운영체제: Windows 7 / 8 / 10 (64-bit) </br> CPU: 2GHZ 이상 | 
+**컴퓨터 사양** | * 운영체제: Windows 7 / 8 / 10 (64-bit) </br> * CPU: 2GHZ 이상</br> * Memory: 8GB 이상</br> * USB 3.0 포트</br> * 디스플레이: 1600 x 1000 이상(1920 x 1080 추천) | 
 
