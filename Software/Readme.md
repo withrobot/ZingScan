@@ -1,3 +1,6 @@
+# MS VC Redistributable Package
+* [MS VC Redistributable Package.zip](MS VC Redistributable Package.zip)
+
 # USB Driver
 * [USB Driver.zip](USB Driver.zip)
 
